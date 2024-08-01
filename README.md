@@ -1,4 +1,4 @@
-# Quetzal Wrath - The Exiled Prophet
+# Quetzal's Wrath - The Exiled Prophet
 
 
 <div align="center">
