@@ -3,9 +3,9 @@
 
 <div align="center">
 
-** Mayan Survival RPG **
+**Mayan Survival RPG**
 
-** Singleplayer or 4 Player Coop **
+**Singleplayer or 4 Player Coop**
 
 ---
 
