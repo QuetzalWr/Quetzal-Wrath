@@ -13,7 +13,9 @@
 **Created in Unreal Engine**
 
 ---
+**:open_book:**
 ## Story
+**:open_book:**
 
 ***Quetzal's Wrath*** plunges players into the heart of the ***Mayan Civilization in 1500 AD***, just as the ***Spanish Conquest*** looms on the horizon. Players embody a once-respected member of a powerful ***Mayan*** city who has been exiled due to betrayal and false accusations. As they embark on their journey of exile, they stumble upon the ***"Prophecy of Quetzal"***, a chilling prediction of upheaval and a great change symbolized by the Feathered Serpent. This prophecy forewarns the arrival of foreign invaders the ***Spanish Conquistadors*** whose presence threatens to unravel the Mayan way of life.
 
