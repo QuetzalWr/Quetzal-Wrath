@@ -14,7 +14,7 @@ Quetzal's Wrath is a thrilling cooperative survival RPG set in 1500 AD, just bef
 
 ---
 
-# Accuracy
+## Accuracy
 
 <div align="center">
 I am wanting to make this as accurately as possible, but also adding a few supernatural elements. However I do not plan on making the supernatural elements overpower the main focus of the game, will they be crucial? possibly step in ensuring that. 
@@ -24,9 +24,9 @@ With that being said, I have been thoroughly going through every single document
 Please bear with me as I and a solo developer, who never made a game before is attempting this as just a fun project all while taking my time with it and enjoying it. I am however a Web Developer of over 20 years with a wide-spectrum of coding knowledge. 
 </div>
 
-# Build Status
+## Where I'm at so far
 
-> [!NOTE]
+> [!CAUTION]
 > This is severely in the beginning stages of development, I apologize for the lack of current information or content.
 
 ** The following checklist is what I have planned, and the checkmark is what is done, if it has a X then it was scrapped. **
@@ -114,12 +114,15 @@ Please bear with me as I and a solo developer, who never made a game before is a
 - [Mythical]
 
 
-
-# Future Plans
-
+- [Multiplayer]
 
 
-# Thanks
+
+## Future Plans
+
+
+
+## Thanks
 
 <a href="https://trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
 
