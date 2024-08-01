@@ -29,15 +29,15 @@ Please bear with me as I and a solo developer, who never made a game before is a
 > [!CAUTION]
 > This is severely in the beginning stages of development, I apologize for the lack of current information or content.
 
-** The following checklist is what I have planned, and the checkmark is what is done, if it has a X then it was scrapped. **
+**The following checklist is what I have planned, and the checkmark is what is done, if it has a X then it was scrapped**
 
-- [Plot]
+- [Plot](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [x] Main Storyline 
     - [x] Key Events
     - [x] Over 50 Side Quests
     - [ ] Accuracy & Creative Liberties
 
-- [Gameplay]
+- [Gameplay](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Survival Elements
     - [ ] Crafting Elements
     - [ ] Upgrading Elements
@@ -46,13 +46,13 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Stealth Mechanics - Climbing/Hiding in Trees, Bushes, Mud
     - [ ] Skill Trees & Progression - FURTHER RESEARCH NEEDED
 
-- [World-Building]
+- [World-Building](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Environment - Jungle, Mountains, Rivers
     - [ ] Culture - Traditions, Rituals, Language
     - [ ] Locations - Temples, Villages, Small Tribes, Hermits, Europeans, Ancient Ruins
     - [ ] Mythology - Gods, Legends, Supernatural Elements
 
-- [Characters]
+- [Characters](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Player Character
     - [ ] Character Customization
     - [ ] Character Backstory
@@ -65,14 +65,14 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Hunting
     - [ ] ??????? - Mythical
 
-- [Survival]
+- [Survival](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Hunger
     - [ ] Thrist
     - [ ] Temperature
     - [ ] Diseases & Viruses - Cold, Rashes, Burns, Dysentery, Measles, Mumps, Smallpox 
     - [ ] Health Mechanics
 
-- [Crafting]
+- [Crafting](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Weapons - Spears, Blowguns, Slings, Atlatl Spear-Thrower, Macuahuitl, Bows, Axes, Knives, Daggers
     - [ ] Armor - Cotton Armor, Salting, Treatment, Shields
     - [ ] Jewelry - Earrings, Nose Rings, Lip Rings, Necklaces, Pins, Gemmed, Bones, Painted Clay
@@ -81,40 +81,40 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Gathering - Wood, Rocks, Branches, Mining, Shells, Cultivate, Gems, Minerals
     - [ ] Farming - Raised Bed, Sacred Gardens & Avocados, Maize, Squash, Beans, Chili Peppers, Apples, Pineapples, Papaya, Guavas, Tomatoes, Vanilla Beans
 
-- [Building]
+- [Building](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Skills]
+- [Skills](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Stealth]
+- [Stealth](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Combat]
+- [Combat](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Environment]
+- [Environment](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Culture]
+- [Culture](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Locations]
+- [Locations](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Mythology]
+- [Mythology](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [NPCs]
+- [NPCs](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Hunting]
+- [Hunting](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Mythical]
+- [Mythical](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
-- [Multiplayer]
+- [Multiplayer](https://github.com/QuetzalWr/Quetzal-Wrath)
 
 
 
