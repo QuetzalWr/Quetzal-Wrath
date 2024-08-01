@@ -141,6 +141,6 @@ Please bear with me as I and a solo developer, who never made a game before is a
 
 Thanks for being a awesome workflow platform to help me get started on this
 
-<a href="https://www.unrealengine.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/UnrealEngine-logo.png" height="auto" width="100" alt="Unreal" /></a>
+<a href="https://www.unrealengine.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/images.png" height="auto" width="100" alt="Unreal" /></a>
 
 Thanks for a extremely awesome Engine, I'm really enjoying this engine.
