@@ -11,11 +11,11 @@
 
 ---
 
-Quetzal's Wrath plunges players into the heart of the Mayan civilization in 1500 AD, just as the Spanish Conquest looms on the horizon. Players embody a once-respected member of a powerful Mayan city who has been exiled due to betrayal and false accusations. As they embark on their journey of exile, they stumble upon the "Prophecy of Quetzal," a chilling prediction of upheaval and a great change symbolized by the Feathered Serpent. This prophecy forewarns the arrival of foreign invaders—the Spanish conquistadors—whose presence threatens to unravel the Mayan way of life.
+***Quetzal's Wrath*** plunges players into the heart of the ***Mayan Civilization in 1500 AD***, just as the ***Spanish Conquest*** looms on the horizon. Players embody a once-respected member of a powerful ***Mayan*** city who has been exiled due to betrayal and false accusations. As they embark on their journey of exile, they stumble upon the ***"Prophecy of Quetzal"***, a chilling prediction of upheaval and a great change symbolized by the Feathered Serpent. This prophecy forewarns the arrival of foreign invaders the ***Spanish conquistadors*** whose presence threatens to unravel the Mayan way of life.
 
-In this immersive survival RPG, up to four players must work together to navigate a richly detailed world filled with perilous jungles, ancient ruins, and rival factions. The game emphasizes cooperative gameplay, requiring players to manage resources, craft essential tools, and fend off both natural threats and hostile enemies. As they explore diverse landscapes, players will encounter complex characters and must make strategic decisions to survive and thrive.
+In this immersive survival RPG, either on your own or up to four players must work together to navigate a richly detailed world filled with perilous ***Jungles, Ancient Ruins, and Rival Factions***. The game emphasizes cooperative gameplay or attempt the perilous journey on your own, requiring players to manage resources, craft essential tools, and fend off both natural threats and hostile enemies. As they explore diverse landscapes, players must make strategic decisions to survive and thrive.
 
-The dynamic narrative of Quetzal's Wrath intertwines themes of redemption, prophecy, and survival, offering a deeply engaging experience. Players' choices and actions shape the unfolding story, creating a unique journey each time they play. As they forge alliances and confront the impending threat of the Spanish Conquest, the fate of the Mayan civilization hangs in the balance, driven by the players’ determination and decisions.
+The dynamic narrative of Quetzal's Wrath intertwines themes of ***Redemption, Prophecy, and Survival***, offering a deeply engaging experience. Players choices and actions shape the unfolding story, creating a unique journey each time they play. As they forge alliances and confront the impending threat of the ***Spanish Conquest*** or fend them off has the ***Prophesied Chilan***, the fate of the ***Mayan Civilization*** hangs in the balance, driven by the players determination and decisions.
 </div>
 
 ---
@@ -23,11 +23,11 @@ The dynamic narrative of Quetzal's Wrath intertwines themes of redemption, proph
 ## Accuracy
 
 <div align="center">
-I am wanting to make this as accurately as possible, but also adding a few supernatural elements. However I do not plan on making the supernatural elements overpower the main focus of the game, will they be crucial? possibly step in ensuring that. 
+I am wanting to make this as accurately as possible, whilst also adding a few supernatural elements. However I do not plan on making the supernatural elements overpower the main focus of the game, will they be crucial? possibly stepping in to ensure that. 
 
-With that being said, I have been thoroughly going through every single documented literature to be as faithful as possible towards the Mayans, their beliefs, history, and demise. This could be a replayed game with possible future updates of being procedurally-generated with random events happening at different times than your first playthrough. 
+With that being said, I have been thoroughly going through every single documented literature currently on Mayans to be 90% accurate with their beliefs, history, and demise. This ***WILL BE*** procedurally-generated with random events, terrian, starting location, loot, etc.
 
-Please bear with me as I and a solo developer, who never made a game before is attempting this as just a fun project all while taking my time with it and enjoying it. I am however a Web Developer of over 20 years with a wide-spectrum of coding knowledge. 
+Please bear with me as I am attempting this as a solo developer, who never made a game before. This is intended to be a fun project all while taking my time with it and enjoying it. I am however a Web Developer of over 20 years with a wide-spectrum of coding knowledge. I want to do this right based on my vision, therefore I will be going slow to ensure it happens.
 </div>
 
 ## Where I'm at so far
