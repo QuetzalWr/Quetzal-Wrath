@@ -1,5 +1,8 @@
+<div align="center">
+
 # Quetzal's Wrath - The Exiled Prophet
 
+</div>
 
 <div align="center">
 
@@ -21,7 +24,11 @@ The dynamic narrative of Quetzal's Wrath intertwines themes of ***Redemption, Pr
 
 ---
 
+<div align="center">
+
 ## Accuracy
+
+</div>
 
 <div align="center">
 
@@ -29,7 +36,11 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 
 </div>
 
+<div align="center">
+
 ## Where I'm at so far
+
+</div>
 
 > [!CAUTION]
 > This is severely in the beginning stages of development, I apologize for the lack of current information or content.
@@ -134,11 +145,19 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 **COMING SOON**
 
 
+<div align="center">
+
 ## Future Plans
 
 **COMING SOON**
 
+</div>
+
+<div align="center">
+
 ## Thanks
+
+</div>
 
 <a href="https://www.trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
 
