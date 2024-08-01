@@ -11,6 +11,9 @@ Quetzal's Wrath combines themes of redemption, prophecy, and survival, presentin
 
 # Build Status
 
+> [!NOTE]
+> Useful information that users should know, even when skimming content.
+
 [!NOTE]
 This is severely in the beginning stages of development, I apologize for the lack of current information or content.
 
