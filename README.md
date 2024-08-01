@@ -1,5 +1,5 @@
-# Quetzal-Wrath
-> CURRENTLY A WORK-IN-PROGRESS
+# Quetzal-Wrath > CURRENTLY A WORK-IN-PROGRESS
+
 <div align="center">
 Mayan Survival RPG
 
