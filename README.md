@@ -3,7 +3,7 @@
 
 <div align="center">
 
-**Mayan Survival RPG**
+**:evergreen_tree: **Mayan Survival RPG** :evergreen_tree:**
 
 **Singleplayer or 4 Player Coop**
 
@@ -29,7 +29,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
 > [!CAUTION]
 > This is severely in the beginning stages of development, I apologize for the lack of current information or content.
 
-**The following checklist is what I have planned, and the checkmark is what is done, if it has a X then it was scrapped**
+**:desktop_computer: **The following checklist is what I have planned, and the checkmark is what is done, if it has a X then it was scrapped** :desktop_computer:**
 
 - [Plot](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [x] Main Storyline 
