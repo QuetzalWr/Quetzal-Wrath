@@ -48,7 +48,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Resource Gathering
     - [ ] Combat Mechanics
     - [ ] Stealth Mechanics - Climbing/Hiding in Trees, Bushes, Mud
-    - [ ] Skill Trees & Progression - FURTHER RESEARCH NEEDED
+    - [ ] Skill Trees & Progression - ***FURTHER RESEARCH NEEDED***
 
 - [World-Building](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Environment - Jungle, Mountains, Rivers
@@ -71,6 +71,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
 
 - [Survival](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Hunger
+    - [ ] Diet
     - [ ] Thrist
     - [ ] Temperature
     - [ ] Diseases & Viruses - Cold, Rashes, Burns, Dysentery, Measles, Mumps, Smallpox 
@@ -84,6 +85,9 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Upgrading - Socket Weapons, Armor, Jewelry for Bonuses - Attack, Speed, Stamina, Hunger, Sight, etc
     - [ ] Gathering - Wood, Rocks, Branches, Mining, Shells, Cultivate, Gems, Minerals
     - [ ] Farming - Raised Bed, Sacred Gardens & Avocados, Maize, Squash, Beans, Chili Peppers, Apples, Pineapples, Papaya, Guavas, Tomatoes, Vanilla Beans
+    - [ ] Cooking - ***FURTHER RESEARCH NEEDED***
+    - [ ] Canoes - ***FURTHER RESEARCH NEEDED***
+    - [ ] Medicine - ***FURTHER RESEARCH NEEDED***
 
 
 
