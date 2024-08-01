@@ -113,5 +113,6 @@ Please bear with me as I and a solo developer, who never made a game before is a
 
 # Thanks
 
-<a href="https://trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="30" width="30" alt="Trello" /></a>
+<a href="https://trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
+
 Thanks for being a awesome workflow platform to help me get started on this
