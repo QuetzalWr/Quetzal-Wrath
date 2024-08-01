@@ -60,7 +60,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
 - [Survival]
     - [ ] Hunger
     - [ ] Thrist
-    - [ ] Tempature
+    - [ ] Temperature
     - [ ] Diseases & Viruses - Cold, Rashes, Burns, Dysentery, Measles, Mumps, Smallpox 
     - [ ] Health Mechanics
 
