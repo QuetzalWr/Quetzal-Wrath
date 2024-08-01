@@ -29,7 +29,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
 > [!CAUTION]
 > This is severely in the beginning stages of development, I apologize for the lack of current information or content.
 
-**:desktop_computer: **The following checklist is what I have planned, and what is done** :desktop_computer:**
+<div align="center">**:desktop_computer: **The following checklist is what I have planned, and what is done** :desktop_computer:**</div>
 
 - [Plot](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [x] Main Storyline 
