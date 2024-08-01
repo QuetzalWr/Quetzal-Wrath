@@ -29,7 +29,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
 > [!CAUTION]
 > This is severely in the beginning stages of development, I apologize for the lack of current information or content.
 
-**:desktop_computer: **The following checklist is what I have planned, and the checkmark is what is done, if it has a X then it was scrapped** :desktop_computer:**
+**:desktop_computer: **The following checklist is what I have planned, and what is done** :desktop_computer:**
 
 - [Plot](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [x] Main Storyline 
@@ -81,46 +81,48 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Gathering - Wood, Rocks, Branches, Mining, Shells, Cultivate, Gems, Minerals
     - [ ] Farming - Raised Bed, Sacred Gardens & Avocados, Maize, Squash, Beans, Chili Peppers, Apples, Pineapples, Papaya, Guavas, Tomatoes, Vanilla Beans
 
-- [Building](https://github.com/QuetzalWr/Quetzal-Wrath)
 
+
+- [Building](https://github.com/QuetzalWr/Quetzal-Wrath)
+**COMING SOON**
 
 - [Skills](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Stealth](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Combat](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Environment](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Culture](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Locations](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Mythology](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [NPCs](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Hunting](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Mythical](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 - [Multiplayer](https://github.com/QuetzalWr/Quetzal-Wrath)
-
+**COMING SOON**
 
 
 ## Future Plans
 
-
+**COMING SOON**
 
 ## Thanks
 
