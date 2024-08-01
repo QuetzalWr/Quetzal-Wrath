@@ -27,84 +27,84 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [x] Main Storyline 
     - [x] Key Events
     - [x] Over 50 Side Quests
-    - [] Accuracy & Creative Liberties
+    - [ ] Accuracy & Creative Liberties
 
 - [Gameplay]
-    - [] Survival Elements
-    - [] Crafting Elements
-    - [] Upgrading Elements
-    - [] Resource Gathering
-    - [] Combat Mechanics
-    - [] Stealth Mechanics - Climbing/Hiding in Trees, Bushes, Mud
-    - [] Skill Trees & Progression - FURTHER RESEARCH NEEDED
+    - [ ] Survival Elements
+    - [ ] Crafting Elements
+    - [ ] Upgrading Elements
+    - [ ] Resource Gathering
+    - [ ] Combat Mechanics
+    - [ ] Stealth Mechanics - Climbing/Hiding in Trees, Bushes, Mud
+    - [ ] Skill Trees & Progression - FURTHER RESEARCH NEEDED
 
 - [World-Building]
-    - [] Environment - Jungle, Mountains, Rivers
-    - [] Culture - Traditions, Rituals, Language
-    - [] Locations - Temples, Villages, Small Tribes, Hermits, Europeans, Ancient Ruins
-    - [] Mythology - Gods, Legends, Supernatural Elements
+    - [ ] Environment - Jungle, Mountains, Rivers
+    - [ ] Culture - Traditions, Rituals, Language
+    - [ ] Locations - Temples, Villages, Small Tribes, Hermits, Europeans, Ancient Ruins
+    - [ ] Mythology - Gods, Legends, Supernatural Elements
 
 - [Characters]
-    - [] Player Character
-    - [] Character Customization
-    - [] Character Backstory
-    - [] Important NPCs
-    - [] NPC Allies
-    - [] NPC Merchants
-    - [] ???????
-    - [] NPC Enemies
-    - [] Animals
-    - [] Hunting
-    - [] ??????? - Mythical
+    - [ ] Player Character
+    - [ ] Character Customization
+    - [ ] Character Backstory
+    - [ ] Important NPCs
+    - [ ] NPC Allies
+    - [ ] NPC Merchants
+    - [ ] ???????
+    - [ ] NPC Enemies
+    - [ ] Animals
+    - [ ] Hunting
+    - [ ] ??????? - Mythical
 
 - [Survival]
-    - [] Hunger
-    - [] Thrist
-    - [] Tempature
-    - [] Diseases & Viruses - Cold, Rashes, Burns, Dysentery, Measles, Mumps, Smallpox 
-    - [] Health Mechanics
+    - [ ] Hunger
+    - [ ] Thrist
+    - [ ] Tempature
+    - [ ] Diseases & Viruses - Cold, Rashes, Burns, Dysentery, Measles, Mumps, Smallpox 
+    - [ ] Health Mechanics
 
 - [Crafting]
-    - [] Weapons - Spears, Blowguns, Slings, Atlatl Spear-Thrower, Macuahuitl, Bows, Axes, Knives, Daggers
-    - [] Armor - Cotton Armor, Salting, Treatment, Shields
-    - [] Jewelry - Earrings, Nose Rings, Lip Rings, Necklaces, Pins, Gemmed, Bones, Painted Clay
-    - [] Gems - Jadeite, Iron Pyrites, Hematite, Turquoise, Quartz, Serpentine, Cinnabar
-    - [] Upgrading - Socket Weapons, Armor, Jewelry for Bonuses - Attack, Speed, Stamina, Hunger, Sight, etc
-    - [] Gathering - Wood, Rocks, Branches, Mining, Shells, Cultivate, Gems, Minerals
-    - [] Farming - Raised Bed, Sacred Gardens & Avocados, Maize, Squash, Beans, Chili Peppers, Apples, Pineapples, Papaya, Guavas, Tomatoes, Vanilla Beans
+    - [ ] Weapons - Spears, Blowguns, Slings, Atlatl Spear-Thrower, Macuahuitl, Bows, Axes, Knives, Daggers
+    - [ ] Armor - Cotton Armor, Salting, Treatment, Shields
+    - [ ] Jewelry - Earrings, Nose Rings, Lip Rings, Necklaces, Pins, Gemmed, Bones, Painted Clay
+    - [ ] Gems - Jadeite, Iron Pyrites, Hematite, Turquoise, Quartz, Serpentine, Cinnabar
+    - [ ] Upgrading - Socket Weapons, Armor, Jewelry for Bonuses - Attack, Speed, Stamina, Hunger, Sight, etc
+    - [ ] Gathering - Wood, Rocks, Branches, Mining, Shells, Cultivate, Gems, Minerals
+    - [ ] Farming - Raised Bed, Sacred Gardens & Avocados, Maize, Squash, Beans, Chili Peppers, Apples, Pineapples, Papaya, Guavas, Tomatoes, Vanilla Beans
 
 - [Building]
-    - []
+    - [ ]
 
 - [Skills]
-    - []
+    - [ ]
 
 - [Stealth]
-    - []
+    - [ ]
 
 - [Combat]
-    - []
+    - [ ]
 
 - [Environment]
-    - []
+    - [ ]
 
 - [Culture]
-    - []
+    - [ ]
 
 - [Locations]
-    - []
+    - [ ]
 
 - [Mythology]
-    - []
+    - [ ]
 
 - [NPCs]
-    - []
+    - [ ]
 
 - [Hunting]
-    - []
+    - [ ]
 
 - [Mythical]
-    - []
+    - [ ]
 
 
 # Future Plans
