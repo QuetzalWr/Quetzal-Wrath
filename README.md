@@ -69,7 +69,8 @@ As a solo developer with over 20 years of experience in web development, I'm ded
         - [ ] Climbing/Hiding in Trees
         - [ ] Bushes
         - [ ] Mud
-    - [ ] Skill Trees & Progression - ***FURTHER RESEARCH NEEDED***
+    - [ ] Skill Trees & Progression
+        - [**COMING SOON**]
     - [ ] Procedurelly-Generated
         - [ ] Starting Locations
         - [ ] Environment
@@ -364,20 +365,19 @@ As a solo developer with over 20 years of experience in web development, I'm ded
     - [ ] Shellfish
 
 - [Skills](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
+    - [**COMING SOON**]
 
 - [NPCs](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
+    - [**COMING SOON**]
 
 - [Multiplayer](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
+    - [**COMING SOON**]
 
 
 <div align="center">
 
 ## Future Plans
-**:speech_balloon:**
-**COMING SOON**
+**:speech_balloon:** **COMING SOON** **:speech_balloon:**
 
 </div>
 
