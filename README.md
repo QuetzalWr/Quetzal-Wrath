@@ -7,6 +7,8 @@
 
 **Singleplayer or up to 4 Players**
 
+**Created in Unreal Engine**
+
 ---
 
 Quetzal's Wrath is a thrilling cooperative survival RPG set in 1500 AD, just before the Spanish Conquest. Players take on the role of a respected Mayan, exiled due to betrayal and false accusations. During their journey, they uncover the "Prophecy of Quetzal," which foretells a great upheaval marked by the Feathered Serpent and the arrival of foreign invaders threatening Mayan civilization.
@@ -135,6 +137,10 @@ Please bear with me as I and a solo developer, who never made a game before is a
 
 ## Thanks
 
-<a href="https://trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
+<a href="https://www.trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
 
 Thanks for being a awesome workflow platform to help me get started on this
+
+<a href="https://www.unrealengine.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/UnrealEngine-logo.png" height="auto" width="100" alt="Unreal" /></a>
+
+Thanks for a extremely awesome Engine, I'm really enjoying this engine.
