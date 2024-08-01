@@ -10,8 +10,9 @@
 **Created in Unreal Engine**
 
 ---
+## Story
 
-***Quetzal's Wrath*** plunges players into the heart of the ***Mayan Civilization in 1500 AD***, just as the ***Spanish Conquest*** looms on the horizon. Players embody a once-respected member of a powerful ***Mayan*** city who has been exiled due to betrayal and false accusations. As they embark on their journey of exile, they stumble upon the ***"Prophecy of Quetzal"***, a chilling prediction of upheaval and a great change symbolized by the Feathered Serpent. This prophecy forewarns the arrival of foreign invaders the ***Spanish conquistadors*** whose presence threatens to unravel the Mayan way of life.
+***Quetzal's Wrath*** plunges players into the heart of the ***Mayan Civilization in 1500 AD***, just as the ***Spanish Conquest*** looms on the horizon. Players embody a once-respected member of a powerful ***Mayan*** city who has been exiled due to betrayal and false accusations. As they embark on their journey of exile, they stumble upon the ***"Prophecy of Quetzal"***, a chilling prediction of upheaval and a great change symbolized by the Feathered Serpent. This prophecy forewarns the arrival of foreign invaders the ***Spanish Conquistadors*** whose presence threatens to unravel the Mayan way of life.
 
 In this immersive survival RPG, either on your own or up to four players must work together to navigate a richly detailed world filled with perilous ***Jungles, Ancient Ruins, and Rival Factions***. The game emphasizes cooperative gameplay or attempt the perilous journey on your own, requiring players to manage resources, craft essential tools, and fend off both natural threats and hostile enemies. As they explore diverse landscapes, players must make strategic decisions to survive and thrive.
 
@@ -23,11 +24,9 @@ The dynamic narrative of Quetzal's Wrath intertwines themes of ***Redemption, Pr
 ## Accuracy
 
 <div align="center">
-I am wanting to make this as accurately as possible, whilst also adding a few supernatural elements. However I do not plan on making the supernatural elements overpower the main focus of the game, will they be crucial? possibly stepping in to ensure that. 
 
-With that being said, I have been thoroughly going through every single documented literature currently on Mayans to be 90% accurate with their beliefs, history, and demise. This ***WILL BE*** procedurally-generated with random events, terrian, starting location, loot, etc.
+As a solo developer with over 20 years of experience in web development, I'm dedicated to creating an experience that is not only entertaining but also respectful of historical accuracy and cultural authenticity. I am meticulously researching ***Mayan History, Beliefs, and the Events*** leading up to their encounter with the ***Spanish***, whilst aiming for 90% accuracy. This project is a labor of love, intended to be developed at a thoughtful pace to ensure it aligns with my vision. The game's procedural nature will offer players a unique experience with each playthrough, featuring ***Random Events, Environment, Starting Locations, Items, and much more***. ***Quetzal's Wrath*** seeks to balance engaging gameplay with a respectful portrayal of ***Mayan Culture and History***, offering players a deeply immersive and dynamic journey.
 
-Please bear with me as I am attempting this as a solo developer, who never made a game before. This is intended to be a fun project all while taking my time with it and enjoying it. I am however a Web Developer of over 20 years with a wide-spectrum of coding knowledge. I want to do this right based on my vision, therefore I will be going slow to ensure it happens.
 </div>
 
 ## Where I'm at so far
