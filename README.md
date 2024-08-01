@@ -5,7 +5,7 @@
 
 **:evergreen_tree: **Mayan Survival RPG** :evergreen_tree:**
 
-**Singleplayer or 4 Player Coop**
+**Singleplayer or up to 4 Players**
 
 ---
 
@@ -55,6 +55,7 @@ Please bear with me as I and a solo developer, who never made a game before is a
     - [ ] Culture - Traditions, Rituals, Language
     - [ ] Locations - Temples, Villages, Small Tribes, Hermits, Europeans, Ancient Ruins
     - [ ] Mythology - Gods, Legends, Supernatural Elements
+    - [ ] Procedurally Generated - Terrian, Villages, Tribes, Events
 
 - [Characters](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Player Character
