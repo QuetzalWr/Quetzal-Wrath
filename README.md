@@ -1,6 +1,5 @@
-<div align="center">
 # Quetzal-Wrath
-
+<div align="center">
 Mayan Survival RPG
 
 Quetzal's Wrath is a thrilling cooperative survival RPG set in 1500 AD, just before the Spanish Conquest. Players take on the role of a respected Mayan, exiled due to betrayal and false accusations. During their journey, they uncover the "Prophecy of Quetzal," which foretells a great upheaval marked by the Feathered Serpent and the arrival of foreign invaders threatening Mayan civilization.
