@@ -70,6 +70,14 @@ As a solo developer with over 20 years of experience in web development, I'm ded
         - [ ] Bushes
         - [ ] Mud
     - [ ] Skill Trees & Progression - ***FURTHER RESEARCH NEEDED***
+    - [ ] Procedurelly-Generated
+        - [ ] Starting Locations
+        - [ ] Environment
+        - [ ] Items
+        - [ ] Random Events
+            - [ ] ??????? - Not Revealing
+            - [ ] ??????? - Not Revealing
+            - [ ] ??????? - Not Revealing
 
 - [World-Building](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Environment
@@ -375,14 +383,27 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 
 <div align="center">
 
-## Thanks
-**:sparkling_heart:**
+## License
+
+Copyright (c) 2012-2024 Scott Chacon and others
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 </div>
 
-<a href="https://www.trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
-
-Thanks for being a awesome workflow platform to help me get started on this
-
-<a href="https://www.unrealengine.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/images.png" height="auto" width="100" alt="Unreal" /></a>
-
-Thanks for a extremely awesome Engine, I'm really enjoying this engine.
