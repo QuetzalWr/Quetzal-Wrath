@@ -11,7 +11,11 @@
 
 ---
 
-Quetzal's Wrath is a thrilling cooperative survival RPG set in 1500 AD, just before the Spanish Conquest. Players take on the role of a once respected Mayan, exiled due to betrayal and false accusations. During their journey, they uncover the "Prophecy of Quetzal," which foretells a great upheaval marked by the Feathered Serpent and the arrival of foreign invaders threatening Mayan civilization.
+Quetzal's Wrath plunges players into the heart of the Mayan civilization in 1500 AD, just as the Spanish Conquest looms on the horizon. Players embody a once-respected member of a powerful Mayan city who has been exiled due to betrayal and false accusations. As they embark on their journey of exile, they stumble upon the "Prophecy of Quetzal," a chilling prediction of upheaval and a great change symbolized by the Feathered Serpent. This prophecy forewarns the arrival of foreign invaders—the Spanish conquistadors—whose presence threatens to unravel the Mayan way of life.
+
+In this immersive survival RPG, up to four players must work together to navigate a richly detailed world filled with perilous jungles, ancient ruins, and rival factions. The game emphasizes cooperative gameplay, requiring players to manage resources, craft essential tools, and fend off both natural threats and hostile enemies. As they explore diverse landscapes, players will encounter complex characters and must make strategic decisions to survive and thrive.
+
+The dynamic narrative of Quetzal's Wrath intertwines themes of redemption, prophecy, and survival, offering a deeply engaging experience. Players' choices and actions shape the unfolding story, creating a unique journey each time they play. As they forge alliances and confront the impending threat of the Spanish Conquest, the fate of the Mayan civilization hangs in the balance, driven by the players’ determination and decisions.
 </div>
 
 ---
