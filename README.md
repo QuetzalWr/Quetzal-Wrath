@@ -13,7 +13,6 @@
 **Created in Unreal Engine**
 
 ---
-**:open_book:**
 ## Story
 **:open_book:**
 
@@ -29,7 +28,7 @@ The dynamic narrative of Quetzal's Wrath intertwines themes of ***Redemption, Pr
 <div align="center">
 
 ## Accuracy
-
+**:bow_and_arrow:**
 </div>
 
 <div align="center">
@@ -41,7 +40,8 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 <div align="center">
 
 ## Where I'm at so far
-
+**:memo:**
+**:pencil:**
 </div>
 
 > [!CAUTION]
@@ -65,15 +65,40 @@ As a solo developer with over 20 years of experience in web development, I'm ded
     - [ ] Upgrading Elements
     - [ ] Resource Gathering
     - [ ] Combat Mechanics
-    - [ ] Stealth Mechanics - Climbing/Hiding in Trees, Bushes, Mud
+    - [ ] Stealth Mechanics
+        - [ ] Climbing/Hiding in Trees
+        - [ ] Bushes
+        - [ ] Mud
     - [ ] Skill Trees & Progression - ***FURTHER RESEARCH NEEDED***
 
 - [World-Building](https://github.com/QuetzalWr/Quetzal-Wrath)
-    - [ ] Environment - Jungle, Mountains, Rivers
-    - [ ] Culture - Traditions, Rituals, Language
-    - [ ] Locations - Temples, Villages, Small Tribes, Hermits, Europeans, Ancient Ruins
-    - [ ] Mythology - Gods, Legends, Supernatural Elements
-    - [ ] Procedurally Generated - Terrian, Villages, Tribes, Events
+    - [ ] Environment
+        - [ ] Jungle
+        - [ ] Mountains
+        - [ ] Rivers
+    - [ ] Culture
+        - [ ] Traditions
+        - [ ] Rituals
+        - [ ] Language
+    - [ ] Locations
+        - [ ] Temples
+        - [ ] Villages
+        - [ ] Small Tribes
+        - [ ] Hermits
+        - [ ] Europeans
+        - [ ] Ancient Ruins
+        - [ ] Caves
+        - [ ] Flooded Labyrinths
+        - [ ] Underground Complexes
+    - [ ] Mythology
+        - [ ] Gods
+        - [ ] Legends
+        - [ ] Supernatural Elements
+    - [ ] Procedurally Generated
+        - [ ] Terrian
+        - [ ] Villages
+        - [ ] Tribes
+        - [ ] Events
 
 - [Characters](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Player Character
@@ -93,54 +118,247 @@ As a solo developer with over 20 years of experience in web development, I'm ded
     - [ ] Diet
     - [ ] Thrist
     - [ ] Temperature
-    - [ ] Diseases & Viruses - Cold, Rashes, Burns, Dysentery, Measles, Mumps, Smallpox 
+    - [ ] Diseases & Viruses
+        - [ ] Cold
+        - [ ] Rashes
+        - [ ] Burns
+        - [ ] Dysentery
+        - [ ] Measles
+        - [ ] Mumps
+        - [ ] Smallpox 
     - [ ] Health Mechanics
+    - [ ] Hunting
+    - [ ] Fishing
+    - [ ] Gathering Fruits
 
 - [Crafting](https://github.com/QuetzalWr/Quetzal-Wrath)
-    - [ ] Weapons - Spears, Blowguns, Slings, Atlatl Spear-Thrower, Macuahuitl, Bows, Axes, Knives, Daggers
-    - [ ] Armor - Cotton Armor, Salting, Treatment, Shields
-    - [ ] Jewelry - Earrings, Nose Rings, Lip Rings, Necklaces, Pins, Gemmed, Bones, Painted Clay
-    - [ ] Gems - Jadeite, Iron Pyrites, Hematite, Turquoise, Quartz, Serpentine, Cinnabar
-    - [ ] Upgrading - Socket Weapons, Armor, Jewelry for Bonuses - Attack, Speed, Stamina, Hunger, Sight, etc
-    - [ ] Gathering - Wood, Rocks, Branches, Mining, Shells, Cultivate, Gems, Minerals
-    - [ ] Farming - Raised Bed, Sacred Gardens & Avocados, Maize, Squash, Beans, Chili Peppers, Apples, Pineapples, Papaya, Guavas, Tomatoes, Vanilla Beans
-    - [ ] Cooking - ***FURTHER RESEARCH NEEDED***
-    - [ ] Canoes - ***FURTHER RESEARCH NEEDED***
-    - [ ] Medicine - ***FURTHER RESEARCH NEEDED***
+    - [Weapons](https://github.com/QuetzalWr/Quetzal-Wrath)
+		- [ ] Spears
+            - [ ] Socketed
+		- [ ] Blowguns
+		- [ ] Slings
+		- [ ] Atlatl Spear-Thrower
+            - [ ] Socketed
+		- [ ] Macuahuitl Club
+            - [ ] Socketed
+        - [ ] Clubs
+            - [ ] Socketed
+		- [ ] Bows & Arrows
+		- [ ] Axes
+		- [ ] Knives
+            - [ ] Socketed
+		- [ ] Daggers
+            - [ ] Socketed
+		- [ ] Hammers
+		- [ ] Torches
+		- [ ] Fishing Spears
 
+    - [Armor](https://github.com/QuetzalWr/Quetzal-Wrath)
+		- [ ] Cotton Armor
+            - [ ] Salting
+		    - [ ] Treatment
+		- [ ] Huarache Sandals
+		- [ ] Shields
+            - [ ] Socketed
+			- [ ] Leather
+			- [ ] Cotton
+			- [ ] Bamboo
+			- [ ] Metals
+		- [ ] Leather Garments
+            - [ ] Salting
+		    - [ ] Treatment
+		- [ ] Protective Gear
+	
+	- [Metalworking](https://github.com/QuetzalWr/Quetzal-Wrath) 
+		- [ ] Copper Tools
+            - [ ] Socketed
+		- [ ] Bronze Weapons
+            - [ ] Socketed
+		- [ ] Metal-tipped Spears
+            - [ ] Socketed
+		- [ ] Obsidian Blades
+            - [ ] Socketed
+			
+    - [Ceremonial](https://github.com/QuetzalWr/Quetzal-Wrath) 
+		- [ ] Earrings
+            - [ ] Socketed
+		- [ ] Nose Rings
+            - [ ] Socketed
+		- [ ] Lip Rings
+            - [ ] Socketed
+		- [ ] Necklaces
+            - [ ] Socketed
+		- [ ] Pins 
+		- [ ] Gemmed
+		- [ ] Bones
+		- [ ] Painted Clay
+		- [ ] Masks
+            - [ ] Socketed
+		- [ ] Pottery
+		- [ ] Carvings
+		- [ ] Ritualistic
+		- [ ] Talismans
+            - [ ] Socketed
+			
+    - [Gems](https://github.com/QuetzalWr/Quetzal-Wrath)
+		- [ ] Jadeite 
+		- [ ] Iron Pyrites 
+		- [ ] Hematite 
+		- [ ] Turquoise 
+		- [ ] Quartz
+		- [ ] Serpentine
+		- [ ] Cinnabar
+		
+    - [Upgrading](https://github.com/QuetzalWr/Quetzal-Wrath) 
+		- [ ] Socket Weapons with Gems
+		- [ ] Socket Armor with Gems
+		- [ ] Socket Jewelry with Gems
+		- [ ] Enchanting
+	- [Bonuses](https://github.com/QuetzalWr/Quetzal-Wrath) 
+		- [ ] Attack Damage
+		- [ ] Attack Speed
+		- [ ] Sturdiness
+		- [ ] Movement Speed
+		- [ ] Stamina
+		- [ ] Hunger
+		- [ ] Sight
+		- [ ] Nightvision
+		- [ ] **MORE TO COME**
+	
+	- [Engineering](https://github.com/QuetzalWr/Quetzal-Wrath) 
+		- [ ] Traps
+		- [ ] Defensive Structures
+		- [ ] Stone Walls
+		- [ ] Fortified Structures
+        - [ ] Masonry Tools
+        - [ ] Bridges
+        - [ ] Pathways
 
+    - [CraftingBenches](https://github.com/QuetzalWr/Quetzal-Wrath)
+        - [ ] Weaving Looms
+		- [ ] Pottery Wheels
+		- [ ] Forge
+        - [ ] Workbench
+        - [ ] Fire pits
+        
+    - [Housing](https://github.com/QuetzalWr/Quetzal-Wrath)
+        - [ ] Huts
+        - [ ] Lean-tos
+        - [ ] Commoner Housing
+        - [ ] Elite Housing
 
-- [Building](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
+	- [Cooking](https://github.com/QuetzalWr/Quetzal-Wrath)
+		- [ ] Cooking Pots
+		- [ ] Simple Grills
+		- [ ] Drying Racks
+		- [ ] Recipes **WIP**
+		
+    - [Medicine](https://github.com/QuetzalWr/Quetzal-Wrath)
+		- [ ] Healing Potions
+		- [ ] Antidotes
+		- [ ] Potions
+		- [ ] Elixirs
+		
+	- [Navigation](https://github.com/QuetzalWr/Quetzal-Wrath)
+		- [ ] Maps
+		- [ ] Wayfinding Tools
+	
+- [Gathering](https://github.com/QuetzalWr/Quetzal-Wrath)
+	- [ ] Wood
+	- [ ] Rocks
+	- [ ] Branches
+	- [ ] Mining
+	- [ ] Shells
+	- [ ] Cultivate
+	- [ ] Gems
+	- [ ] Minerals
+	- [ ] Plants
+
+- [Farming](https://github.com/QuetzalWr/Quetzal-Wrath)
+	- [ ] Raised Bed
+	- [ ] Sacred Gardens
+	- [ ] Avocados
+	- [ ] Maize, Squash
+	- [ ] Beans
+	- [ ] Chili Peppers
+	- [ ] Apples
+	- [ ] Pineapples
+	- [ ] Papaya
+	- [ ] Guavas
+	- [ ] Tomatoes
+	- [ ] Vanilla Beans
+	- [ ] Irrigation Systems
+	- [ ] Farming Tools
+		
+- [Stealth](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Climbing Trees
+    - [ ] Hiding in Bushes
+    - [ ] Covering in mud
+    - [ ] Stalking in water
+
+- [Combat](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Dodging
+    - [ ] Ambushing
+    - [ ] Projectile
+    - [ ] Swordplay
+    - [ ] Ranged
+        - [ ] Bows
+        - [ ] Slings
+        - [ ] Atlatl Spear-Thrower
+    - [ ] Blocking
+    - [ ] Hiding
+    - [ ] Stealth
+
+- [Environment](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Thick Forest
+    - [ ] Abundent Rivers
+    - [ ] Abutting Plains
+    - [ ] Mountains
+    - [ ] Large Valleys
+    - [ ] Ocean
+
+- [Culture](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Architecture
+    - [ ] Astronomy
+    - [ ] Writing
+    - [ ] Glyphs
+    - [ ] Science
+
+- [Locations](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Maya Lowlands
+        - [ ] Plains
+    - [ ] Maya Highlands
+        - [ ] Peaks
+        - [ ] Valleys
+    - [ ] Maya Pacific
+        - [ ] Volcanic-Sedimentary Plains
+        - [ ] Coastal Plains
+
+- [Mythology](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Death Gods
+    - [ ] Jaguar Gods
+    - [ ] Mams
+
+- [Hunting](https://github.com/QuetzalWr/Quetzal-Wrath)
+    - [ ] Deer
+    - [ ] Manatee
+    - [ ] Armadillo
+    - [ ] Tapir
+    - [ ] Peccary
+    - [ ] Iguana
+    - [ ] Turtle
+    - [ ] Monkey
+    - [ ] Turkey
+    - [ ] Fish
+    - [ ] Lobster
+    - [ ] Shrimp
+    - [ ] Conch
+    - [ ] Shellfish
 
 - [Skills](https://github.com/QuetzalWr/Quetzal-Wrath)
 **COMING SOON**
 
-- [Stealth](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Combat](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Environment](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Culture](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Locations](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Mythology](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
 - [NPCs](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Hunting](https://github.com/QuetzalWr/Quetzal-Wrath)
-**COMING SOON**
-
-- [Mythical](https://github.com/QuetzalWr/Quetzal-Wrath)
 **COMING SOON**
 
 - [Multiplayer](https://github.com/QuetzalWr/Quetzal-Wrath)
@@ -150,7 +368,7 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 <div align="center">
 
 ## Future Plans
-
+**:speech_balloon:**
 **COMING SOON**
 
 </div>
@@ -158,7 +376,7 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 <div align="center">
 
 ## Thanks
-
+**:sparkling_heart:**
 </div>
 
 <a href="https://www.trello.com/"><img src="https://github.com/QuetzalWr/Quetzal-Wrath/blob/main/images/Trello-logo.png" height="auto" width="100" alt="Trello" /></a>
