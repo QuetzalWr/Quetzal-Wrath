@@ -57,7 +57,7 @@ As a solo developer with over 20 years of experience in web development, I'm ded
     - [x] Main Storyline 
     - [x] Key Events
     - [x] Over 50 Side Quests
-    - [ ] Accuracy & Creative Liberties
+    - [x] Accuracy & Creative Liberties
 
 - [Gameplay](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Survival Elements
@@ -69,8 +69,10 @@ As a solo developer with over 20 years of experience in web development, I'm ded
         - [ ] Climbing/Hiding in Trees
         - [ ] Bushes
         - [ ] Mud
+
     - [ ] Skill Trees & Progression
         - [**COMING SOON**]
+
     - [ ] Procedurelly-Generated
         - [ ] Starting Locations
         - [ ] Environment
@@ -81,20 +83,18 @@ As a solo developer with over 20 years of experience in web development, I'm ded
             - [ ] ??????? - Not Revealing
 
 - [World-Building](https://github.com/QuetzalWr/Quetzal-Wrath)
-    - [ ] Environment
-        - [ ] Jungle
-        - [ ] Mountains
-        - [ ] Rivers
-    - [ ] Culture
-        - [ ] Traditions
-        - [ ] Rituals
-        - [ ] Language
+    - [x] Environment
+        - [x] Jungle
+        - [x] Mountains
+        - [x] Rivers
+    - [x] Culture
+        - [x] Traditions
+        - [x] Rituals
+        - [x] Language
     - [ ] Locations
         - [ ] Temples
         - [ ] Villages
-        - [ ] Small Tribes
-        - [ ] Hermits
-        - [ ] Europeans
+        - [ ] ??????? - Not Revealing
         - [ ] Ancient Ruins
         - [ ] Caves
         - [ ] Flooded Labyrinths
@@ -103,11 +103,6 @@ As a solo developer with over 20 years of experience in web development, I'm ded
         - [ ] Gods
         - [ ] Legends
         - [ ] Supernatural Elements
-    - [ ] Procedurally Generated
-        - [ ] Terrian
-        - [ ] Villages
-        - [ ] Tribes
-        - [ ] Events
 
 - [Characters](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Player Character
@@ -281,7 +276,9 @@ As a solo developer with over 20 years of experience in web development, I'm ded
 	- [ ] Cultivate
 	- [ ] Gems
 	- [ ] Minerals
-	- [ ] Plants
+	- [ ] Crops
+    - [ ] Animal Harvesting
+    - [ ] Forgaging
 
 - [Farming](https://github.com/QuetzalWr/Quetzal-Wrath)
 	- [ ] Raised Bed
@@ -319,12 +316,12 @@ As a solo developer with over 20 years of experience in web development, I'm ded
     - [ ] Stealth
 
 - [Environment](https://github.com/QuetzalWr/Quetzal-Wrath)
-    - [ ] Thick Forest
-    - [ ] Abundent Rivers
-    - [ ] Abutting Plains
-    - [ ] Mountains
-    - [ ] Large Valleys
-    - [ ] Ocean
+    - [x] Thick Forest
+    - [x] Abundent Rivers
+    - [x] Abutting Plains
+    - [x] Mountains
+    - [x] Large Valleys
+    - [x] Ocean
 
 - [Culture](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Architecture
@@ -334,14 +331,14 @@ As a solo developer with over 20 years of experience in web development, I'm ded
     - [ ] Science
 
 - [Locations](https://github.com/QuetzalWr/Quetzal-Wrath)
-    - [ ] Maya Lowlands
-        - [ ] Plains
-    - [ ] Maya Highlands
-        - [ ] Peaks
-        - [ ] Valleys
-    - [ ] Maya Pacific
-        - [ ] Volcanic-Sedimentary Plains
-        - [ ] Coastal Plains
+    - [x] Maya Lowlands
+        - [x] Plains
+    - [x] Maya Highlands
+        - [x] Peaks
+        - [x] Valleys
+    - [x] Maya Pacific
+        - [x] Volcanic-Sedimentary Plains
+        - [x] Coastal Plains
 
 - [Mythology](https://github.com/QuetzalWr/Quetzal-Wrath)
     - [ ] Death Gods
